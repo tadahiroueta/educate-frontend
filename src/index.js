@@ -7,15 +7,15 @@ import { AuthProvider } from './context/AuthProvider';
 
 import './index.css';
 
-import Layout from './Pages/Layout';
-import Welcome from './Pages/Welcome';
-import SignIn from './Pages/SignIn';
-import SignUp from './Pages/SignUp';
-import BlogDashboard from './Pages/BlogDashboard';
-import BlogSession from './Pages/BlogSession';
-import FlashcardDashboard from './Pages/FlashcardDashboard';
-import FlashcardCreate from './Pages/FlashcardCreate';
-import FlashcardSession from './Pages/FlashcardSession';
+import Layout from './pages/Layout';
+import Welcome from './pages/Welcome';
+import SignIn from './pages/SignIn';
+import SignUp from './pages/SignUp';
+import BlogDashboard from './pages/BlogDashboard';
+import BlogSession from './pages/BlogSession';
+import FlashcardDashboard from './pages/FlashcardDashboard';
+import FlashcardCreate from './pages/FlashcardCreate';
+import FlashcardSession from './pages/FlashcardSession';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
