@@ -1,0 +1,15 @@
+{
+  "short_name": "E-ducate",
+  "name": "E-ducate",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "258x266",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2A59B6",
+  "background_color": "#EBF2FE"
+}

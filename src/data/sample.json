@@ -1,0 +1,469 @@
+{
+  "flashcardSets": [
+    {
+      "id": 1,
+      "title": "Basic Algebra Terms",
+      "author": "John Doe",
+      "topic": "Math",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Variable",
+          "definition": "A symbol, usually a letter, that represents a number in mathematical expressions or equations."
+        },
+        {
+          "term": "Coefficient",
+          "definition": "A number that is multiplied by a variable in an algebraic expression."
+        },
+        {
+          "term": "Equation",
+          "definition": "A mathematical statement that asserts the equality of two expressions."
+        },
+        {
+          "term": "Expression",
+          "definition": "A combination of numbers, variables, and operators (such as +, -, *, /) without an equality sign."
+        },
+        {
+          "term": "Inequality",
+          "definition": "A mathematical statement that compares two expressions and shows that they are not equal."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Writing Vocabulary - Set 1",
+      "author": "Jane Smith",
+      "topic": "Writing",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Thesis",
+          "definition": "The central argument or main point of an essay or research paper."
+        },
+        {
+          "term": "Cohesion",
+          "definition": "The quality of being logically connected and consistent within a piece of writing."
+        },
+        {
+          "term": "Transition",
+          "definition": "Words or phrases that link different ideas or sections of writing."
+        },
+        {
+          "term": "Tone",
+          "definition": "The attitude or approach that the author takes toward the essay’s main theme."
+        },
+        {
+          "term": "Audience",
+          "definition": "The group of readers or viewers that the writer is addressing in their work."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Geometry Vocabulary",
+      "author": "Alice Brown",
+      "topic": "Math",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Angle",
+          "definition": "A figure formed by two rays, called the sides of the angle, sharing a common endpoint called the vertex."
+        },
+        {
+          "term": "Polygon",
+          "definition": "A plane figure with at least three straight sides and angles, typically five or more."
+        },
+        {
+          "term": "Parallel Lines",
+          "definition": "Lines in a plane that are equidistant and never intersect."
+        },
+        {
+          "term": "Congruent",
+          "definition": "Two figures or objects are congruent if they have the same shape and size."
+        },
+        {
+          "term": "Perimeter",
+          "definition": "The continuous line forming the boundary of a closed geometric figure."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Writing Vocabulary - Set 2",
+      "author": "Jane Smith",
+      "topic": "Writing",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Syntax",
+          "definition": "The arrangement of words and phrases to create well-formed sentences in a language."
+        },
+        {
+          "term": "Diction",
+          "definition": "The choice and use of words and phrases in speech or writing."
+        },
+        {
+          "term": "Connotation",
+          "definition": "An idea or feeling that a word invokes in addition to its literal or primary meaning."
+        },
+        {
+          "term": "Denotation",
+          "definition": "The literal or primary meaning of a word, in contrast to the feelings or ideas that the word suggests."
+        },
+        {
+          "term": "Metaphor",
+          "definition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Trigonometry Terms",
+      "author": "Mark Wilson",
+      "topic": "Math",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Sine",
+          "definition": "A trigonometric function of an angle defined as the ratio of the opposite side to the hypotenuse in a right triangle."
+        },
+        {
+          "term": "Cosine",
+          "definition": "A trigonometric function of an angle defined as the ratio of the adjacent side to the hypotenuse in a right triangle."
+        },
+        {
+          "term": "Tangent",
+          "definition": "A trigonometric function of an angle defined as the ratio of the opposite side to the adjacent side in a right triangle."
+        },
+        {
+          "term": "Pythagorean Theorem",
+          "definition": "A fundamental relation in Euclidean geometry among the three sides of a right triangle."
+        },
+        {
+          "term": "Unit Circle",
+          "definition": "A circle with a radius of one, centered at the origin of a coordinate plane, used to define trigonometric functions."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Basic Physics Concepts",
+      "author": "Sarah Miller",
+      "topic": "Science",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Force",
+          "definition": "An interaction that, when unopposed, will change the motion of an object."
+        },
+        {
+          "term": "Velocity",
+          "definition": "The speed of something in a given direction."
+        },
+        {
+          "term": "Acceleration",
+          "definition": "The rate of change of velocity per unit of time."
+        },
+        {
+          "term": "Work",
+          "definition": "Work is done when a force is applied to an object and the object moves."
+        },
+        {
+          "term": "Energy",
+          "definition": "The capacity to do work or produce heat."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "American History Key Terms",
+      "author": "David Thompson",
+      "topic": "History",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Constitution",
+          "definition": "The supreme law of the United States, establishing the national government and fundamental laws."
+        },
+        {
+          "term": "Civil War",
+          "definition": "A war between the Northern and Southern states of the U.S. from 1861-1865."
+        },
+        {
+          "term": "Abolition",
+          "definition": "The movement to end slavery."
+        },
+        {
+          "term": "Bill of Rights",
+          "definition": "The first ten amendments to the U.S. Constitution that guarantee individual rights."
+        },
+        {
+          "term": "Manifest Destiny",
+          "definition": "The 19th-century doctrine that the expansion of the U.S. throughout the American continents was both justified and inevitable."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Basic Chemistry Terms",
+      "author": "Lisa Green",
+      "topic": "Science",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Atom",
+          "definition": "The smallest unit of matter that retains the properties of an element."
+        },
+        {
+          "term": "Molecule",
+          "definition": "Two or more atoms bonded together, representing the smallest fundamental unit of a chemical compound."
+        },
+        {
+          "term": "Compound",
+          "definition": "A substance made up of two or more different types of atoms bonded together."
+        },
+        {
+          "term": "Ion",
+          "definition": "An atom or molecule with a net electric charge due to the loss or gain of one or more electrons."
+        },
+        {
+          "term": "pH",
+          "definition": "A measure of the acidity or alkalinity of a solution."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "World Geography Terms",
+      "author": "Robert King",
+      "topic": "Geography",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Continent",
+          "definition": "One of the seven large landmasses on the Earth."
+        },
+        {
+          "term": "Equator",
+          "definition": "An imaginary line around the middle of the Earth, equally distant from the North and South Poles."
+        },
+        {
+          "term": "Hemisphere",
+          "definition": "Half of the Earth, usually divided into Northern and Southern or Eastern and Western."
+        },
+        {
+          "term": "Latitude",
+          "definition": "The distance north or south of the equator, measured in degrees."
+        },
+        {
+          "term": "Longitude",
+          "definition": "The distance east or west of the prime meridian, measured in degrees."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Biology Vocabulary",
+      "author": "Anna White",
+      "topic": "Science",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Cell",
+          "definition": "The basic structural, functional, and biological unit of all living organisms."
+        },
+        {
+          "term": "Photosynthesis",
+          "definition": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water."
+        },
+        {
+          "term": "DNA",
+          "definition": "Deoxyribonucleic acid, the molecule that carries genetic information in all living organisms."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "A community of interacting organisms and their physical environment."
+        },
+        {
+          "term": "Evolution",
+          "definition": "The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Basic Economics Terms",
+      "author": "Michael Brown",
+      "topic": "Economics",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Supply",
+          "definition": "The total amount of a product or service that is available to consumers."
+        },
+        {
+          "term": "Demand",
+          "definition": "The desire of purchasers, consumers, or clients for a particular good or service."
+        },
+        {
+          "term": "Inflation",
+          "definition": "A general increase in prices and fall in the purchasing value of money."
+        },
+        {
+          "term": "Gross Domestic Product (GDP)",
+          "definition": "The total value of goods produced and services provided in a country during one year."
+        },
+        {
+          "term": "Market Economy",
+          "definition": "An economic system in which production and prices are determined by unrestricted competition between privately owned businesses."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Literary Devices",
+      "author": "Jessica Adams",
+      "topic": "Writing",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Alliteration",
+          "definition": "The occurrence of the same letter or sound at the beginning of adjacent or closely connected words."
+        },
+        {
+          "term": "Irony",
+          "definition": "A contrast between expectation and reality, often highlighting the opposite of what is expected."
+        },
+        {
+          "term": "Foreshadowing",
+          "definition": "A literary device used to give an indication or hint of what is to come later in the story."
+        },
+        {
+          "term": "Metaphor",
+          "definition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable."
+        },
+        {
+          "term": "Personification",
+          "definition": "The attribution of a personal nature or human characteristics to something non-human."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Computer Science Basics",
+      "author": "John Lee",
+      "topic": "Computer Science",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Algorithm",
+          "definition": "A process or set of rules to be followed in calculations or other problem-solving operations."
+        },
+        {
+          "term": "Data Structure",
+          "definition": "A particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently."
+        },
+        {
+          "term": "Loop",
+          "definition": "A programming structure that repeats a sequence of instructions until a specific condition is met."
+        },
+        {
+          "term": "Variable",
+          "definition": "A storage location paired with an associated symbolic name, which contains some known or unknown quantity or information."
+        },
+        {
+          "term": "Function",
+          "definition": "A block of code designed to perform a particular task, and is executed when called."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Environmental Science Terms",
+      "author": "Emily Carter",
+      "topic": "Science",
+      "dateCreated": "2024-09-02",
+      "rating": 4,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Biodiversity",
+          "definition": "The variety of plant and animal life in the world or in a particular habitat."
+        },
+        {
+          "term": "Climate Change",
+          "definition": "A long-term change in the average weather patterns that have come to define Earth’s local, regional, and global climates."
+        },
+        {
+          "term": "Sustainability",
+          "definition": "Avoidance of the depletion of natural resources in order to maintain an ecological balance."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "A biological community of interacting organisms and their physical environment."
+        },
+        {
+          "term": "Renewable Energy",
+          "definition": "Energy from a source that is not depleted when used, such as wind or solar power."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Astronomy Basics",
+      "author": "Kevin Johnson",
+      "topic": "Science",
+      "dateCreated": "2024-09-02",
+      "rating": 5,
+      "numberOfFlashcards": 5,
+      "flashcards": [
+        {
+          "term": "Galaxy",
+          "definition": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction."
+        },
+        {
+          "term": "Black Hole",
+          "definition": "A region of space having a gravitational field so intense that no matter or radiation can escape."
+        },
+        {
+          "term": "Nebula",
+          "definition": "A cloud of gas and dust in space, often where stars are born."
+        },
+        {
+          "term": "Light Year",
+          "definition": "A unit of astronomical distance equivalent to the distance that light travels in one year."
+        },
+        {
+          "term": "Supernova",
+          "definition": "A stellar explosion that occurs at the end of a star's life cycle."
+        }
+      ]
+    }
+  ]
+}
