@@ -17,7 +17,7 @@ export default function SignIn() {
 
   const handleAuthentication = async () => {
     try {
-      axios.post("/api/login", { email, password })
+      axios.post("https://educate-backend-69dte.ondigitalocean.app/api/login", { email, password })
         .then((res) => {
           setAuth(res.data);
         })

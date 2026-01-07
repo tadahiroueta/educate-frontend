@@ -17,12 +17,12 @@ export default function FlashcardSession() {
   let [addedFlashcards, setAddedFlashcards] = useState([]);
 
   useEffect(() => {
-    axios.get("/api/get_set/" + collection)
+    axios.get("https://educate-backend-69dte.ondigitalocean.app/api/get_set/" + collection)
       .then((response) => {
         const set = response.data;
         setSet(set);
         addFlashcard(0, "animate-slide-left", set);
-        axios.get("/api/get_collections")
+        axios.get("https://educate-backend-69dte.ondigitalocean.app/api/get_collections")
           .then((response) => {
             const onTopicSets = response.data.filter((otherSet) => otherSet.documents[0].topic === set.topic && otherSet.collection !== set.collection);
             setRelatedSets(search(set.title, onTopicSets.map((set) => set.documents[0].title)).map((index) => onTopicSets[index]).slice(0, 2));

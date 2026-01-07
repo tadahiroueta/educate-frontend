@@ -7,7 +7,7 @@ export default function BlogDashboard() {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    axios.get("/api/get_blogs")
+    axios.get("https://educate-backend-69dte.ondigitalocean.app/api/get_blogs")
       .then((response) => {
         console.log('API Response:', response.data);
         setArticles(response.data);

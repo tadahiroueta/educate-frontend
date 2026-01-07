@@ -49,7 +49,7 @@ export default function FlashcardDashboard() {
 
 
   useEffect(() => {
-    axios.get('/api/get_collections') // TODO dev only
+    axios.get('https://educate-backend-69dte.ondigitalocean.app/api/get_collections') // TODO dev only
       .then(response => {
         console.log('API Response:', response.data);
         setCollections(response.data);

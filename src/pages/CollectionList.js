@@ -7,7 +7,7 @@ function CollectionList() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get('/api/get_collections')
+    axios.get('https://educate-backend-69dte.ondigitalocean.app/api/get_collections')
       .then(response => {
         console.log('API Response:', response.data);
         setCollections(response.data);

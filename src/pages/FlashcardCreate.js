@@ -101,7 +101,7 @@ export default function FlashcardCreate() {
       ]
     };
     try {
-      const response = await axios.post('/api/upload_flashcardSet', data);
+      const response = await axios.post('https://educate-backend-69dte.ondigitalocean.app/api/upload_flashcardSet', data);
       console.log('Response from backend:', response.data);
     } catch (error) {
       console.error('Error sending data:', error);

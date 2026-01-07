@@ -38,7 +38,7 @@ export default function BlogSession() {
   ];
 
   useEffect(() => {
-    axios.get("/api/get_blog/" + encodeURIComponent(document))
+    axios.get("https://educate-backend-69dte.ondigitalocean.app/api/get_blog/" + encodeURIComponent(document))
       .then((response) => {
         console.log('API Response:', response.data);
         setArticle(response.data);

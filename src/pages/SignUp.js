@@ -139,7 +139,7 @@ export default function SignUp() {
   useEffect(() => {
     if (step < 3) { return; }
       
-    axios.post("/api/upload_user/", { firstName, lastName, email, password, school })
+    axios.post("https://educate-backend-69dte.ondigitalocean.app/api/upload_user/", { firstName, lastName, email, password, school })
       .then((response) => {
         console.log(response.data);
       })
