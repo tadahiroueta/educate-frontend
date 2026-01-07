@@ -49,7 +49,7 @@ export default function FlashcardDashboard() {
 
 
   useEffect(() => {
-    axios.get('https://390t17n7-5000.usw2.devtunnels.ms/api/get_collections') // TODO dev only
+    axios.get('/api/get_collections') // TODO dev only
       .then(response => {
         console.log('API Response:', response.data);
         setCollections(response.data);

@@ -38,7 +38,7 @@ export default function BlogSession() {
   ];
 
   useEffect(() => {
-    axios.get("https://390t17n7-5000.usw2.devtunnels.ms/api/get_blog/" + encodeURIComponent(document))
+    axios.get("/api/get_blog/" + encodeURIComponent(document))
       .then((response) => {
         console.log('API Response:', response.data);
         setArticle(response.data);

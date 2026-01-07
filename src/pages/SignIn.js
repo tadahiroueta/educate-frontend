@@ -17,7 +17,7 @@ export default function SignIn() {
 
   const handleAuthentication = async () => {
     try {
-      axios.post("https://390t17n7-5000.usw2.devtunnels.ms/api/login", { email, password })
+      axios.post("/api/login", { email, password })
         .then((res) => {
           setAuth(res.data);
         })

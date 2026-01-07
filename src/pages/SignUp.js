@@ -139,7 +139,7 @@ export default function SignUp() {
   useEffect(() => {
     if (step < 3) { return; }
       
-    axios.post("https://390t17n7-5000.usw2.devtunnels.ms/api/upload_user/", { firstName, lastName, email, password, school })
+    axios.post("/api/upload_user/", { firstName, lastName, email, password, school })
       .then((response) => {
         console.log(response.data);
       })
